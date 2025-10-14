@@ -1,2 +1,2 @@
-console.log("todo gucci");
+console.log("todo fino");
 
